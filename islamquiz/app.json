@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "QuIslam",
-    "slug": "QuIslam",
+    "name": "islamquiz",
+    "slug": "islamquiz",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
